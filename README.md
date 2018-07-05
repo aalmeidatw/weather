@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/aalmeidatw/weather.svg?branch=master)](https://travis-ci.org/aalmeidatw/weather)
+ 
  - Usar API de Meteorologia para leitura de dados: 
     - URL da API => https://openweathermap.org/api
     - Icones, temperaturas minimas e máxima de apenas 1 cidade e para um dia
